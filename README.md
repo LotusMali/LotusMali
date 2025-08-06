@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! I'm Lotus Mali
 
-<!--
-**LotusMali/LotusMali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerospace Engineering Major + Software Developer  
+Classical Music Major | Tech Generalist | Builder
 
-Here are some ideas to get you started:
+## Tech Stack
+- Languages: Python, Java, C#, JavaScript
+- Tools: .NET, Flask, AutoCAD, MATLAB, SQL, Git, CI/CD
+- Interests: Machine Learning, Robotics, Simulation, Full Stack Dev, Autonomous Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Mini Pinterest Clone** – React + Flask app w/ CRUD boards
+- **Botanical Monitoring System** – Arduino + Python GUI
+- **Warehouse Optimizer** – Python script for box size optimization
+- **Voiceover Booth Tracker** – App to schedule and record sessions
+
+## Education
+- Dual BS: Aerospace Engineering (Autonomous Systems) + Music Performance @ ASU
+
+## Let's Connect!
+- Mallierep@gmail.com
+
