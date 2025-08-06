@@ -9,7 +9,6 @@ Classical Music Major | Tech Generalist | Builder
 - Interests: Machine Learning, Robotics, Simulation, Full Stack Dev, Autonomous Systems
 
 ## Projects
-- **Mini Pinterest Clone** – React + Flask app w/ CRUD boards
 - **Botanical Monitoring System** – Arduino + Python GUI
 - **Warehouse Optimizer** – Python script for box size optimization
 - **Voiceover Booth Tracker** – App to schedule and record sessions
